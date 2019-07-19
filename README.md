@@ -1,3 +1,3 @@
 # gerrymetrics
 
-Repository to calculate four tests to quantify gerrymandering using electoral data.
+Quantify gerrymandering with four tests using electoral data.
